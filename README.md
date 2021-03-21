@@ -1,6 +1,7 @@
 # Currency Converter
 
 Stack: Vue2 and Quasar
+
 Didn't use vuex as I thought it was redundant to have a state manager.
 
 ## Install the dependencies
