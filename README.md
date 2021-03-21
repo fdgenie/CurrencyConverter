@@ -2,7 +2,13 @@
 
 Stack: Vue2 and Quasar
 
+API used: https://exchangeratesapi.io/
+
+Description: A currency converter that you can select source and target currencies and source amount and it will convert you target amount accordingly. Option to swap the source and target currency. 
+
 Didn't use vuex as I thought it was redundant to have a state manager.
+
+Below there are steps to install locally and build
 
 ## Install the dependencies
 
