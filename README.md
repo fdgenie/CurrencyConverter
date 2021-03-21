@@ -8,6 +8,8 @@ Description: A currency converter that you can select source and target currenci
 
 Didn't use vuex as I thought it was redundant to have a state manager.
 
+I started the graph for historical rates but I didn't have the time to finish it.
+
 Below there are steps to install locally and build
 
 ## Install the dependencies
